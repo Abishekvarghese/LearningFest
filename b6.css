@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    flex-direction: columns;
+}
+.mento {
+    display: flex;
+}
